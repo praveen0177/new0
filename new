@@ -1,8 +1,12 @@
 first line
 
+<<<<<<< HEAD
 complete.....
 
 
+=======
+what are you doing today
+>>>>>>> dev
 
 
 secion line
@@ -29,3 +33,4 @@ last line
 
 
 onemore
+ iam
